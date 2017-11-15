@@ -10,5 +10,7 @@ Real IP's Captured from internet by Aspoky
 - México
 - Costa Rica
 - Japón
+- Chile
+- Brazil
 
 * AND MORE SOON....
