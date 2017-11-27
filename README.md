@@ -12,5 +12,6 @@ Real IP's Captured from internet by Aspoky
 - Japón
 - Chile
 - Brazil
+- Uruguay
 
 * AND MORE SOON....
